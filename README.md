@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Simone
-
-[![Linkedin: morellato](https://img.shields.io/badge/-morellato-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gianlucamardente/](https://www.linkedin.com/in/morellato/))]([https://www.linkedin.com/in/gianlucamardente/](https://www.linkedin.com/in/morellato/))
+### Hi there 👋 I'm Simone Morellato
 
 I'm a CMO | Marketer, Builder, Innovator | AI Trailblazer, Kubernetes Enthusiast | Help Tech Companies Articulate Product Value and Differentiate it in the Market
 
